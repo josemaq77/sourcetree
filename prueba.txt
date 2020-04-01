@@ -1,6 +1,10 @@
 prueba
 
+<<<<<<< HEAD
 
 boton
 
 boton2
+=======
+reparado
+>>>>>>> arreglo_rapido
